@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\StringTask2\StringTask2\bin\Debug\net8.0\StringTask2.exe
+C:\Users\pc\source\repos\StringTask2\StringTask2\bin\Debug\net8.0\StringTask2.deps.json
+C:\Users\pc\source\repos\StringTask2\StringTask2\bin\Debug\net8.0\StringTask2.runtimeconfig.json
+C:\Users\pc\source\repos\StringTask2\StringTask2\bin\Debug\net8.0\StringTask2.dll
+C:\Users\pc\source\repos\StringTask2\StringTask2\bin\Debug\net8.0\StringTask2.pdb
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.AssemblyInfo.cs
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.dll
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\refint\StringTask2.dll
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.pdb
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\StringTask2.genruntimeconfig.cache
+C:\Users\pc\source\repos\StringTask2\StringTask2\obj\Debug\net8.0\ref\StringTask2.dll

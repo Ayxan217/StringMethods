@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\stringMethods\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\StringMethods\\stringMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F43B65E8-36E3-40C5-B83D-BB855DD5ED09}|stringMethods\\stringMethods.csproj|c:\\users\\pc\\source\\repos\\stringmethods\\stringmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43B65E8-36E3-40C5-B83D-BB855DD5ED09}|stringMethods\\stringMethods.csproj|solutionrelative:stringmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\StringMethods\\stringMethods\\stringMethods\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stringMethods\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\stringMethods\\stringMethods\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\StringMethods\\stringMethods\\stringMethods\\Program.cs",
               "RelativeDocumentMoniker": "stringMethods\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\stringMethods\\stringMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\StringMethods\\stringMethods\\stringMethods\\Program.cs",
               "RelativeToolTip": "stringMethods\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T17:22:53.084Z",
               "EditorCaption": ""
