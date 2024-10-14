@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.exe
+C:\Users\pc\source\repos\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.deps.json
+C:\Users\pc\source\repos\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.runtimeconfig.json
+C:\Users\pc\source\repos\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.dll
+C:\Users\pc\source\repos\stringMethods\stringMethods\bin\Debug\net8.0\stringMethods.pdb
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.AssemblyInfo.cs
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.dll
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\refint\stringMethods.dll
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.pdb
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\stringMethods.genruntimeconfig.cache
+C:\Users\pc\source\repos\stringMethods\stringMethods\obj\Debug\net8.0\ref\stringMethods.dll
