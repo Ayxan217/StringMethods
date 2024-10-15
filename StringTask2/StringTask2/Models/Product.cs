@@ -25,23 +25,23 @@ namespace StringTask2.Models
             Count = count;
 
         }
-        public  string IdMaker(string name, string model)
+        public static  string IdMaker(string name, string model)
         {
             string id = name.Substring(0, 2) + model.Substring(0, 2);
             return id;
         }
-        public  void GetInfo()
+        public static  void GetInfo()
         {
             Console.WriteLine($"Brand {BrandName}, Model: {Model} Price{Price}, Count: {Count} Income: {Income}");
         }
-        public int Sale( int income int price int cost int count)
+        public int Sale(  int income int price int cost int count)
         {
             if (count > 0)
             {
                 income = price - cost;
                 count--;
             }
-            return count, income; //işlenmedi :(
+            return count, income;
         }
 
     }
