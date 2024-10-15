@@ -13,7 +13,7 @@ public class Program:Product
         Product product = new Product("apple", "iphone", 999, 600, 17);
         Console.WriteLine(string.Concat("ID: ", product.IdMaker(product.BrandName, product.Model)));
         product.GetInfo();
-        product.Sale(ref product.Income,product.Price,product.Cost,product.Count) // bundan başqa diger metodlar işleyir
+        
         Console.Read();
 
     }

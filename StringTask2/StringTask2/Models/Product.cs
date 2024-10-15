@@ -34,14 +34,14 @@ namespace StringTask2.Models
         {
             Console.WriteLine($"Brand {BrandName}, Model: {Model} Price{Price}, Count: {Count} Income: {Income}");
         }
-        public int Sale( ref int income int price int cost int count)
+        public int Sale( int income int price int cost int count)
         {
             if (count > 0)
             {
                 income = price - cost;
                 count--;
             }
-            return count, income;
+            return count, income; //işlenmedi :(
         }
 
     }
